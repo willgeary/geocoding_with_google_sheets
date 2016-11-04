@@ -424,5 +424,5 @@ function onOpen() {
 
 # 2. Open Tools -> Script Editor in new google sheet document. 
 
-[](https://i.imgur.com/nkQisew.png)
+![](https://i.imgur.com/nkQisew.png)
 
