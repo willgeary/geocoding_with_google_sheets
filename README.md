@@ -160,5 +160,36 @@ function onOpen() {
 
 ![](https://i.imgur.com/nkQisew.png)
 
-# 3. 
+# 3. Paste the above code into the script
+Paste the entire section of code into the google script editor, replacing the starter code that was originally there. Click the save button to save this script in your google sheet.
+![](https://i.imgur.com/WTRXTE0.png)
+
+# 4. Refresh your google sheet. You may need to close out and re-open
+
+# 5. A new tab called 'Geocode' should appear in your menu
+It it doesn't appear, try closing out of the google sheet and reopening it.
+![](https://i.imgur.com/AGO85q2.png)
+
+# Now you can do magic
+
+# 6. Select column of addresses and two columns to the right of them
+This tells the Geocode macro where your addresses exist and where the lat/lon coordiates should be output.
+![](https://i.imgur.com/VtHTXUL.png)
+
+# 7. Navigate to Geocode -> Geocode Selected Cells (Address to Lat, Long)
+
+![](https://i.imgur.com/8kps7bU.png)
+
+# Magic
+
+![](http://i.imgur.com/fbVjAFt.gif)
+
+# Note: You can also reverse geocode
+
+![](http://i.imgur.com/vjFYOjv.gif)
+
+Thanks for reading! I hope this is helpful.
+
+Will Geary
+
 
