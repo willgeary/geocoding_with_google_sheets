@@ -7,7 +7,15 @@ You can geocode addresses to lat lon coordinates and vice versa using google she
 
 # 1. Save geocoding macro as a google script
 
-Click [here](https://github.com/nuket/google-sheets-geocoding-macro/blob/master/Code.gs) to view the google sheets geocoding macro source code. Copy and paste the code into `
+Click [here](https://github.com/nuket/google-sheets-geocoding-macro/blob/master/Code.gs) to view the google sheets geocoding macro source code. Copy and paste the code into 
+
+```{r, eval = FALSE}
+object <- [some kind of calculation]
+Note that this; is not valid R code
+```
+
+
+`
 
 // Bias the geocoding results in favor of these geographic regions.
 // The regions are specified as ccTLD codes.
